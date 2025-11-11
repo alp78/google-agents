@@ -1,3 +1,4 @@
 .agents/
+.vscode/
 .ipynb_checkpoints/
 *.txt
